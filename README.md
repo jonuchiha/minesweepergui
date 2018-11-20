@@ -1,1 +1,1 @@
-# minesweepergui
+# Minesweeper Java GUI Game
